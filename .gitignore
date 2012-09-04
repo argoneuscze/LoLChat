@@ -12,3 +12,5 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+doc/html
+doc/latex
